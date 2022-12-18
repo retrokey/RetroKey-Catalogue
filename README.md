@@ -11,8 +11,9 @@
 > Currently work Since Arcturus 3.5.1.
 > [Last release: r1](https://github.com/Key/retrokey-catalogue/releases/tag/r1).
 > Under development: r1.
+> This catalogue also contains custom material, if you wish to delete it, just deactivate it in the database.
 > For issues tell me on my discord: key#5746, or create a issue in this Github.
-> If you have translated the catalogue into other languages, and you want to contribute, please contact me and send me the files. You will also be added in the credits
+> If you have translated the catalogue into other languages, and you want to contribute, please contact me and send me the files. You will also be added in the credits.
 > [Click here to download](https://bit.ly/retrokey-catalogue).
 > This catalogue only works for nitro. If you want it for Flash too, do it by your self. Sorry.
 
