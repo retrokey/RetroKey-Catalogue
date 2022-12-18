@@ -1,7 +1,7 @@
 # RetroKey Catalogue. <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/1_hi.gif">
 
 * [What is RetroKey-Catalogue](https://github.com/retrokey/RetroKey-Catalogue/wiki/What-is-RetroKey-Catalogue).
-* [How to Install](https://github.com/retrokey/RetroKey-Cataloguei/wiki/How-to-Install).
+* [How to Install](https://github.com/retrokey/RetroKey-Catalogue/wiki/How-to-Install).
 * [Special Thanks](https://github.com/retrokey/RetroKey-Catalogue/wiki/Special-thanks).
 * [Arcturus Morningstar Download](https://git.openhabbo.org/krews/Morningstar).
 * [Nitro Wiki and Download](https://github.com/billsonnn/nitro-react/wiki).
