@@ -14,4 +14,5 @@
 > For issues tell me on my discord: key#5746, or create a issue in this Github.
 > If you have translated the catalogue into other languages, and you want to contribute, please contact me and send me the files. You will also be added in the credits
 > [Click here to download](https://bit.ly/2Q0FaCc).
+> This catalogue only works for nitro. If you want it for Flash too, do it by your self. Sorry.
 
