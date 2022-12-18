@@ -1,2 +1,17 @@
-# RetroKey-Catalogue
-Arcturus Morningstar compatible catalogue. Warning: this catalogue does not contain a clothing section, nor does it have the IDs sorted as they should be, it is simply a release so you can have an up-to-date catalogue, if you want to contribute you are free to do so and send a pull request.
+# RetroKey Catalogue. <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/1_hi.gif">
+
+* [What is RetroKey-Catalogue](https://github.com/retrokey/RetroKey-Catalogue/wiki/What-is-RetroKey-Catalogue).
+* [How to Install](https://github.com/retrokey/RetroKey-Cataloguei/How-to-Install).
+* [Special Thanks](https://github.com/retrokey/RetroKey-Catalogue/Special-thanks).
+* [Arcturus Wiki and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
+* [Nitro Wiki and Download](https://github.com/billsonnn/nitro-react/wiki).
+
+# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/tonestroom_big.gif"> About:
+
+> Currently work Since Arcturus 3.5.1.
+> [Last release: r1](https://github.com/Key/retrokey-catalogue/releases/tag/r1).
+> Under development: r1.
+> For issues tell me on my discord: key#5746, or create a issue in this Github.
+> If you have translated the catalogue into other languages, and you want to contribute, please contact me and send me the files. You will also be added in the credits
+> [Click here to download](https://bit.ly/2Q0FaCc).
+
