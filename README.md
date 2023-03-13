@@ -1,6 +1,6 @@
 # RetroKey Catalogue. <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/2_hi.gif">
 
-* Because GitHub doesn't allow uploading files larger than 100MB I had to put the .nitro files in a separate link (Mega) I leave the download here: <a href="https://mega.nz/file/ZU13DSYS#RuQVIVtY4pg0_ZxCsvKFbN1cckwmYJemwEXc-ICsFfQ"> Click Here! </a>
+* Because GitHub doesn't allow uploading files larger than 100MB I had to put the .nitro files in a separate link (Mega) I leave the download here: <a href="https://mega.nz/file/ZU13DSYS#RuQVIVtY4pg0_ZxCsvKFbN1cckwmYJemwEXc-ICsFfQ" target="_blank"> Click Here! </a>
 
 * [What is RetroKey-Catalogue](https://github.com/retrokey/RetroKey-Catalogue/wiki/What-is-RetroKey-Catalogue).
 * [How to Install](https://github.com/retrokey/RetroKey-Catalogue/wiki/How-to-Install).
