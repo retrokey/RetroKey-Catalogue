@@ -1,4 +1,6 @@
-# RetroKey Catalogue. <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/1_hi.gif">
+# RetroKey Catalogue. <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/2_hi.gif">
+
+* Because GitHub doesn't allow uploading files larger than 100MB I had to put the .nitro files in a separate link (Mega) I leave the download here: https://mega.nz/file/ZU13DSYS#RuQVIVtY4pg0_ZxCsvKFbN1cckwmYJemwEXc-ICsFfQ
 
 * [What is RetroKey-Catalogue](https://github.com/retrokey/RetroKey-Catalogue/wiki/What-is-RetroKey-Catalogue).
 * [How to Install](https://github.com/retrokey/RetroKey-Catalogue/wiki/How-to-Install).
@@ -9,7 +11,8 @@
 # <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/tonestroom_big.gif"> About:
 
 > Currently work Since Arcturus 3.5.1.
-> [Last release: r1](https://github.com/Key/retrokey-catalogue/releases/tag/r1).
+> [Last release: r2](https://github.com/Key/retrokey-catalogue/releases/tag/r2).
+
 > Under development: r1.
 > This catalogue also contains custom material, if you wish to delete it, just deactivate it in the database.
 > For issues tell me on my discord: key#5746, or create a issue in this Github.
